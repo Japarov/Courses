@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(225, 225, 225);
+}
+/* .parent {
+    font-weight: bold;
+    border: 1px solid black;
+}
+a {
+    text-decoration: inherit;
+    border: inherit;
+    border-color: blue;
+}
+.children {
+    font-weight: normal;
+    text-decoration: none;
+} */
+
+.container {
+    width: 100vw;
+    height: 300px;
+    background-color: aqua;
+}
+.item {
+    width: 20px;
+    height: 20px;
+    background-color: burlywood;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+}

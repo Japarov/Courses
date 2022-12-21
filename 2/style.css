@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* .div {
+    background-color: lightblue;
+    width: 50%;
+    height: 80%;
+    min-width: 50px;
+    min-height: 50px;
+    max-width: 200;
+    max-height: 200px;
+}
+.wrapper {
+    background-color: lightgrey;
+    height: 50vh;
+    width: 50vw;
+} */
+
+.header {
+    background-color: aqua;
+    height: 80px;
+}
+.header .avatar {
+width: 80px;
+height: 80px;
+background-color: black;
+}
+.sidebar {
+    background-color: lightgrey;
+    width: 50px;
+    height: 80vh;
+    display: inline-block;
+}
+.content {
+    background-color: lightgreen;
+    height: 500px;
+    width: 600px;
+    display: inline-block;
+}
+.avatar {
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    background-color: red;
+    display: inline-block;
+}
